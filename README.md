@@ -34,3 +34,17 @@ The full analysis and visual findings are available in the presentation included
 ## Project Status
 
 This repository currently contains the project presentation. Supporting code and technical documentation may be added as they become available.
+
+## Project Visualisations
+
+### Top Product Categories
+
+![Top Product Categories](top-product-categories.png)
+
+### Customer Review Distribution
+
+![Customer Review Distribution](customer-review-distribution.png)
+
+### Delivery Performance and Customer Reviews
+
+![Delivery Performance Reviews](delivery-performance-reviews.png)
